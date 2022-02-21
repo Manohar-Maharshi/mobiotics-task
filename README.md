@@ -1,6 +1,7 @@
 # mobiotics-task
 
-This is a simple movie app shows details about the movie and with it's trailer
+This is a simple movie app shows details about the movie and with it's trailer. [LIVE DEMO](mobiotics-task.vercel.app)
+
 ### Technologies Used :
 
  - [ReactJs](https://reactjs.org/) - front-end JavaScript library for building user interfaces
