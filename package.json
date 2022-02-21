@@ -1,0 +1,28 @@
+{
+  "name": "mobiotics-task",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@heroicons/react": "^1.0.5",
+    "@tailwindcss/line-clamp": "^0.3.1",
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.2",
+    "daisyui": "^2.1.0",
+    "postcss": "^8.4.6",
+    "react-youtube": "^7.14.0",
+    "shaka-player": "^3.1.6",
+    "shaka-player-react": "^1.1.2",
+    "swr": "^1.2.2",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0"
+  }
+}
