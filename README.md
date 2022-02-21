@@ -1,6 +1,6 @@
 # mobiotics-task
 
-This is a simple movie app shows details about the movie and with it's trailer. [LIVE DEMO](https://mobiotics-task.vercel.app/)
+This is a simple movie app shows details about the movie and with it's trailer. [**LIVE DEMO**](https://mobiotics-task.vercel.app/)
 
 ### Technologies Used :
 
